@@ -159,9 +159,9 @@ nombreProduit1=parseFloat(prompt("entrer le premier nombre"));
 nombreProduit2=parseFloat(prompt("entrer le second nombre"));
 
 if(nombreProduit1<0 && nombreProduit2<0 || nombreProduit1>0 && nombreProduit2>0 ){
-    alert("le signe du produit de ces nombres est  + ")
+    alert("le signe du produit de ces nombres est  + ");
 } else if(nombreProduit1==0 || nombreProduit1==0) {
-    alert("le signe du produit de ces nombres est  + ")
+    alert("le signe du produit de ces nombres est  + ");
 }else{
-    alert("le signe du produit de ces nombres est  - ")
+    alert("le signe du produit de ces nombres est  - ");
 }
